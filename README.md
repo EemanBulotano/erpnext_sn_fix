@@ -8,7 +8,7 @@ Step 1: Make sure you install app in your site. If it is not installed then use 
   bench --site site_name install-app sn_customization
 
 step 2: After install you have to run below command to run patch.<br/>
-  bench --site site_name execute sn_customization.api.update_sn
+  bench --site site_name execute sn_customization.api.update_sn_all
   
 
 #### License
